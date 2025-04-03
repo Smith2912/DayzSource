@@ -1,0 +1,6 @@
+2024-12-14 15:10:02,533 - INFO - Initializing exchange: Coinbase Pro
+2024-12-14 15:10:02,534 - INFO - API Key: None, Secret Key: None
+2024-12-14 15:10:02,534 - ERROR - API key or secret is not set.
+2024-12-14 15:10:04,111 - INFO - Initializing exchange: Kraken
+2024-12-14 15:10:04,111 - INFO - API Key: None, Secret Key: None
+2024-12-14 15:10:04,111 - ERROR - API key or secret is not set.
