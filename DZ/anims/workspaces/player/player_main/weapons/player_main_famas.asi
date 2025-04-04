@@ -1,0 +1,31 @@
+$animsetinstance {
+ #template "{F0C651DE8E24A5DE}DZ/anims/workspaces/player/player_main/player_main.ast"
+ #nparents 1
+ #parent "{416372172B0AFA90}DZ/anims/workspaces/player/player_main/player_main_rifle.asi"
+ $animations {
+   "WeaponOperations.ErcRas.Chambering_Closed" "{B7D2ACC2C5178AC6}DZ/anims/anm/player/reloads/Famas/p_erc_chambering_famas_ras.anm"
+   "WeaponOperations.ErcRas.Fire" "{BD2F3F33A09691D1}DZ/anims/anm/player/reloads/Famas/p_erc_fire_famas_ras.anm"
+   "WeaponOperations.ErcRas.FireEmptyAutomatic" "{DD2E33671DCD66A1}DZ/anims/anm/player/reloads/Famas/p_erc_fire_empty_automatic_famas_ras.anm"
+   "WeaponOperations.ErcRas.FireJam" "{1C794A8859DD6C93}DZ/anims/anm/player/reloads/Famas/p_erc_fire_Jam_famas_ras.anm"
+   "WeaponOperations.ErcRas.FireLast" "{16D594B5872C455A}DZ/anims/anm/player/reloads/Famas/p_erc_fire_last_famas_ras.anm"
+   "WeaponOperations.ErcRas.Jamming" "{D347D68FC56824C4}DZ/anims/anm/player/reloads/Famas/p_erc_unjam_famas_ras.anm"
+   "WeaponOperations.ErcRas.Jamming Cancel" "{B41E9599880E0B80}DZ/anims/anm/player/reloads/Famas/p_erc_unjam_cancel_famas_ras.anm"
+   "WeaponOperations.ErcRas.ReloadAction_Closed" "{A3BF90A133B9015C}DZ/anims/anm/player/reloads/Famas/p_erc_reload_action_famas_ras.anm"
+   "WeaponOperations.ErcRas.ReloadMagBullet" "{67E4ECBBB4B956DD}DZ/anims/anm/player/reloads/Famas/p_erc_reload_mag_nobullet_famas_ras.anm"
+   "WeaponOperations.ErcRas.ReloadMagNoBullet" "{67E4ECBBB4B956DD}DZ/anims/anm/player/reloads/Famas/p_erc_reload_mag_nobullet_famas_ras.anm"
+   "WeaponOperations.ErcRas.ReloadMagazineDetach" "{2E4AB4359EBF1246}DZ/anims/anm/player/reloads/Famas/p_erc_reload_mag_remove_famas_ras.anm"
+   "WeaponOperations.ErcRas.ReloadNoMagBullet" "{0363250C19272ED9}DZ/anims/anm/player/reloads/Famas/p_erc_reload_nomag_bullet_famas_ras.anm"
+   "WeaponOperations.PneRas.Chambering_Closed" "{0670FB99CB2C39D2}DZ/anims/anm/player/reloads/Famas/p_pne_chambering_famas_ras.anm"
+   "WeaponOperations.PneRas.Fire" "{9C2C834EF1CA5540}DZ/anims/anm/player/reloads/Famas/p_pne_fire_famas_ras.anm"
+   "WeaponOperations.PneRas.FireEmptyAutomatic" "{1805B0EE1882D130}DZ/anims/anm/player/reloads/Famas/p_pne_fire_empty_automatic_famas_ras.anm"
+   "WeaponOperations.PneRas.FireJam" "{BB92F906BA377D14}DZ/anims/anm/player/reloads/Famas/p_pne_fire_Jam_famas_ras.anm"
+   "WeaponOperations.PneRas.FireLast" "{49C44A10C5B00A23}DZ/anims/anm/player/reloads/Famas/p_pne_fire_last_famas_ras.anm"
+   "WeaponOperations.PneRas.Jamming" "{5E71BBCA11858889}DZ/anims/anm/player/reloads/Famas/p_pne_unjam_famas_ras.anm"
+   "WeaponOperations.PneRas.Jamming Cancel" "{292076C81F01AB1D}DZ/anims/anm/player/reloads/Famas/p_pne_unjam_cancel_famas_ras.anm"
+   "WeaponOperations.PneRas.ReloadAction_Closed" "{943E172D6AE76E8C}DZ/anims/anm/player/reloads/Famas/p_pne_reload_action_famas_ras.anm"
+   "WeaponOperations.PneRas.ReloadMagBullet" "{2F69A4F6A24AF092}DZ/anims/anm/player/reloads/Famas/p_pne_reload_mag_nobullet_famas_ras.anm"
+   "WeaponOperations.PneRas.ReloadMagNoBullet" "{2F69A4F6A24AF092}DZ/anims/anm/player/reloads/Famas/p_pne_reload_mag_nobullet_famas_ras.anm"
+   "WeaponOperations.PneRas.ReloadMagazineDetach" "{A4C3054B74A0B05F}DZ/anims/anm/player/reloads/Famas/p_pne_reload_mag_remove_famas_ras.anm"
+   "WeaponOperations.PneRas.ReloadNoMagBullet" "{4BEE6D410FD48896}DZ/anims/anm/player/reloads/Famas/p_pne_reload_nomag_bullet_famas_ras.anm"
+  
+ }

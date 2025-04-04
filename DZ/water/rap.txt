@@ -1,0 +1,3 @@
+prefix=
+product=
+version=99568P

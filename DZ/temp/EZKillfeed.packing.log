@@ -1,0 +1,144 @@
+﻿\EZKillfeed\config.cpp
+////////////////////////////////////////////////////////////////////
+//DeRap: config.bin
+//Produced from mikero's Dos Tools Dll version 9.36
+//https://mikero.bytex.digital/Downloads
+//'now' is Sun Oct 08 19:20:54 2023 : 'file' last modified on Wed Oct 04 02:02:15 2023
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+class CfgPatches
+{
+class EZKillfeed
+{
+units[] = {};
+weapons[] = {};
+requiredVersion = 0.1;
+requiredAddons[] = {"DZ_Data"};
+};
+};
+class CfgMods
+{
+class EZKillfeed
+{
+dir = "EZKillfeed";
+picture = "";
+action = "";
+hideName = 1;
+hidePicture = 1;
+name = "EZKillfeed";
+credits = "EZKillfeed";
+author = "EZKillfeed";
+authorID = "0";
+version = "1.0";
+extra = 0;
+type = "mod";
+inputs = "EZKillfeed/inputs/Inputs.xml";
+dependencies[] = {"Game","World","Mission"};
+class defs
+{
+class gameScriptModule
+{
+value = "";
+files[] = {"EZKillfeed/scripts/3_Game"};
+};
+class worldScriptModule
+{
+value = "";
+files[] = {"EZKillfeed/scripts/4_World"};
+};
+class missionScriptModule
+{
+value = "";
+files[] = {"EZKillfeed/scripts/5_Mission"};
+};
+};
+};
+};
+<MakePbo...>
+config.cpp:compiling...
+////////////////////////////////////////////////////////////////////
+//DeRap: config.bin
+//Produced from mikero's Dos Tools Dll version 9.36
+//https://mikero.bytex.digital/Downloads
+//'now' is Sun Oct 08 19:20:54 2023 : 'file' last modified on Wed Oct 04 02:02:15 2023
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+class CfgPatches
+{
+class EZKillfeed
+{
+units[] = {};
+weapons[] = {};
+requiredVersion = 0.1;
+requiredAddons[] = {"DZ_Data"};
+};
+};
+class CfgMods
+{
+class EZKillfeed
+{
+dir = "EZKillfeed";
+picture = "";
+action = "";
+hideName = 1;
+hidePicture = 1;
+name = "EZKillfeed";
+credits = "EZKillfeed";
+author = "EZKillfeed";
+authorID = "0";
+version = "1.0";
+extra = 0;
+type = "mod";
+inputs = "EZKillfeed/inputs/Inputs.xml";
+dependencies[] = {"Game","World","Mission"};
+class defs
+{
+class gameScriptModule
+{
+value = "";
+files[] = {"EZKillfeed/scripts/3_Game"};
+};
+class worldScriptModule
+{
+value = "";
+files[] = {"EZKillfeed/scripts/4_World"};
+};
+class missionScriptModule
+{
+value = "";
+files[] = {"EZKillfeed/scripts/5_Mission"};
+};
+};
+};
+};
+<rebuilding units[]= and friends>...
+layouts\Background.layout:loading...
+layouts\headshot.paa:loading...
+layouts\KillFeed.layout:loading...
+layouts\KillFeedDetail.layout:loading...
+scripts\3_Game\KillFeedDeathColors.c:loading...
+scripts\4_World\entities\playerbase.c:loading...
+scripts\4_World\objects\killfeeddeathtype.c:loading...
+scripts\4_World\pluginbase\killfeedhandle.c:loading...
+scripts\4_World\pluginbase\pluginmanager.c:loading...
+scripts\4_World\ui\killfeeditem.c:loading...
+scripts\4_World\ui\killfeedwrapper.c:loading...
+scripts\5_Mission\MissionGameplay.c:loading...
+
+
+Prefix = EZKillfeed
+
+writing header entries..
+checking rapification...
+config.bin is rapified (good)
+
+writing pbo header...
+Writing data blocks...
+.............
+Writing sha '06050CEDFB92B232628F7FD3E754489921E91002'
+File written to C:\Program Files (x86)\Steam\steamapps\common\DayZServer\@PhlankaMods\addons\EZKillfeed.pbo
+</MakePbo>

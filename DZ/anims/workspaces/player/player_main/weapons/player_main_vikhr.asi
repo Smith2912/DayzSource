@@ -1,0 +1,31 @@
+$animsetinstance {
+ #template "{F0C651DE8E24A5DE}DZ/anims/workspaces/player/player_main/player_main.ast"
+ #nparents 1
+ #parent "{416372172B0AFA90}DZ/anims/workspaces/player/player_main/player_main_rifle.asi"
+ $animations {
+   "WeaponOperations.ErcRas.Chambering_Closed" "{CD1F3F63679FF6CE}DZ/anims/anm/player/reloads/Vikhr/p_erc_chambering_Closed_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.Fire" "{39A1D858F214FDE4}DZ/anims/anm/player/reloads/Vikhr/p_erc_fire_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.FireEmptyAutomatic" "{0F8246050BB1E99E}DZ/anims/anm/player/reloads/Vikhr/p_erc_fire_empty_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.FireJam" "{F2277C0EDDAAA336}DZ/anims/anm/player/reloads/Vikhr/p_erc_fire_jam_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.FireLast" "{CF2C9B757994663E}DZ/anims/anm/player/reloads/Vikhr/p_erc_fire_last_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.Jamming" "{DB97C82E4A8D09C9}DZ/anims/anm/player/reloads/Vikhr/p_erc_unjam_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.Jamming Cancel" "{6CC51BD74D06F5C4}DZ/anims/anm/player/reloads/Vikhr/p_erc_unjam_cancel_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.ReloadAction_Closed" "{14F456611D129E0B}DZ/anims/anm/player/reloads/Vikhr/p_erc_reloadAction_Closed_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.ReloadMagBullet" "{4097C666C3CF9714}DZ/anims/anm/player/reloads/Vikhr/p_erc_reload_mag_noBullet_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.ReloadMagNoBullet" "{4097C666C3CF9714}DZ/anims/anm/player/reloads/Vikhr/p_erc_reload_mag_noBullet_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.ReloadMagazineDetach" "{D7636CDA277E4687}DZ/anims/anm/player/reloads/Vikhr/p_erc_reload_mag_remove_Vikhr_ras.anm"
+   "WeaponOperations.ErcRas.ReloadNoMagBullet" "{24100FD16E51EF10}DZ/anims/anm/player/reloads/Vikhr/p_erc_reload_noMag_bullet_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.Chambering_Closed" "{47968E1D8D8054D7}DZ/anims/anm/player/reloads/Vikhr/p_pne_chambering_Closed_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.Fire" "{18A26425A3483975}DZ/anims/anm/player/reloads/Vikhr/p_pne_fire_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.FireEmptyAutomatic" "{BE20115E058A5A8A}DZ/anims/anm/player/reloads/Vikhr/p_pne_fire_empty_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.FireJam" "{55CCCF803E40B2B1}DZ/anims/anm/player/reloads/Vikhr/p_pne_fire_jam_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.FireLast" "{903D45D03B082947}DZ/anims/anm/player/reloads/Vikhr/p_pne_fire_last_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.Jamming" "{56A1A56B9E60A584}DZ/anims/anm/player/reloads/Vikhr/p_pne_unjam_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.Jamming Cancel" "{F1FBF886DA095559}DZ/anims/anm/player/reloads/Vikhr/p_pne_unjam_cancel_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.ReloadAction_Closed" "{5C791E2C0BE13844}DZ/anims/anm/player/reloads/Vikhr/p_pne_reloadAction_Closed_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.ReloadMagBullet" "{081A8E2BD53C315B}DZ/anims/anm/player/reloads/Vikhr/p_pne_reload_mag_noBullet_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.ReloadMagNoBullet" "{081A8E2BD53C315B}DZ/anims/anm/player/reloads/Vikhr/p_pne_reload_mag_noBullet_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.ReloadMagazineDetach" "{5DEADDA4CD61E49E}DZ/anims/anm/player/reloads/Vikhr/p_pne_reload_mag_remove_Vikhr_ras.anm"
+   "WeaponOperations.PneRas.ReloadNoMagBullet" "{6C9D479C78A2495F}DZ/anims/anm/player/reloads/Vikhr/p_pne_reload_noMag_bullet_Vikhr_ras.anm"
+  
+ }

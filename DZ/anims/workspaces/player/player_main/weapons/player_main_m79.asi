@@ -1,0 +1,21 @@
+$animsetinstance {
+ #template "{F0C651DE8E24A5DE}DZ/anims/workspaces/player/player_main/player_main.ast"
+ #nparents 1
+ #parent "{416372172B0AFA90}DZ/anims/workspaces/player/player_main/player_main_rifle.asi"
+ $animations {
+   "WeaponOperations.ErcRas.Chambering_Closed" "{67B015CEECB1B5B1}DZ/anims/anm/player/reloads/M79/p_erc_chambering_in_M79.anm"
+   "WeaponOperations.ErcRas.Chambering_Open" "{DF2A776E499A1246}DZ/anims/anm/player/reloads/M79/p_erc_chambering_out_M79.anm"
+   "WeaponOperations.ErcRas.Fire" "{F6EE1FFB9294B863}DZ/anims/anm/player/reloads/M79/p_erc_fire_M79_ras.anm"
+   "WeaponOperations.ErcRas.FireCocked" "{5A993D05F96B5BF2}DZ/anims/anm/player/reloads/M79/p_erc_fire_empty_M79_ras.anm"
+   "WeaponOperations.ErcRas.FireEmptyAutomatic" "{5A993D05F96B5BF2}DZ/anims/anm/player/reloads/M79/p_erc_fire_empty_M79_ras.anm"
+   "WeaponOperations.ErcRas.ReloadAction_Closed" "{6699E488B76AF342}DZ/anims/anm/player/reloads/M79/p_erc_reload_action_out_M79_ras.anm"
+   "WeaponOperations.ErcRas.ReloadAction_Open" "{9EC8FFCA4211BEE2}DZ/anims/anm/player/reloads/M79/p_erc_reload_action_M79_ras.anm"
+   "WeaponOperations.PneRas.Chambering_Closed" "{39F5726E9069C15C}DZ/anims/anm/player/reloads/M79/p_pne_chambering_in_M79.anm"
+   "WeaponOperations.PneRas.Chambering_Open" "{78C1C4E0AA7003C1}DZ/anims/anm/player/reloads/M79/p_pne_chambering_out_M79.anm"
+   "WeaponOperations.PneRas.Fire" "{1646F38DCAC08288}DZ/anims/anm/player/reloads/M79/p_pne_fire_M79_ras.anm"
+   "WeaponOperations.PneRas.FireCocked" "{FD728E8B1A814A75}DZ/anims/anm/player/reloads/M79/p_pne_fire_empty_M79_ras.anm"
+   "WeaponOperations.PneRas.FireEmptyAutomatic" "{FD728E8B1A814A75}DZ/anims/anm/player/reloads/M79/p_pne_fire_empty_M79_ras.anm"
+   "WeaponOperations.PneRas.ReloadAction_Closed" "{B59B57027DDA0D1D}DZ/anims/anm/player/reloads/M79/p_pne_reload_action_out_M79_ras.anm"
+   "WeaponOperations.PneRas.ReloadAction_Open" "{22D229EF1C58668D}DZ/anims/anm/player/reloads/M79/p_pne_reload_action_M79_ras.anm"
+  
+ }

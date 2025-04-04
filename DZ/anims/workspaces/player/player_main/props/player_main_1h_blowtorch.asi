@@ -1,0 +1,19 @@
+$animsetinstance {
+ #template "{F0C651DE8E24A5DE}DZ/anims/workspaces/player/player_main/player_main.ast"
+ #nparents 1
+ #parent "{7324B2E80BB624A1}DZ/anims/workspaces/player/player_main/player_main_1h.asi"
+ $animations {
+   "ActionContinuous.RepairCro.In" "{DF52AAB5AE529878}DZ/anims/anm/player/actions/items/p_cro_repair_blowtorch_in.anm"
+   "ActionContinuous.RepairCro.Loop" "{AF67435C3FB13F65}DZ/anims/anm/player/actions/items/p_cro_repair_blowtorch_loop.anm"
+   "ActionContinuous.RepairCro.Out" "{807CCA2DC387F907}DZ/anims/anm/player/actions/items/p_cro_repair_blowtorch_out.anm"
+   "ActionContinuous.RepairErc.In" "{0BC3EC40D6CD2535}DZ/anims/anm/player/actions/items/p_erc_repair_blowtorch_in.anm"
+   "ActionContinuous.RepairErc.Loop" "{0D4D0A22C1C77161}DZ/anims/anm/player/actions/items/p_erc_repair_blowtorch_loop.anm"
+   "ActionContinuous.RepairErc.Out" "{12CBC63A55C788D5}DZ/anims/anm/player/actions/items/p_erc_repair_blowtorch_out.anm"
+   "ActionContinuous.StartFireCro.In" "{C545014DB18661E4}DZ/anims/anm/player/actions/items/p_cro_ignite_by_blowtorch_in.anm"
+   "ActionContinuous.StartFireCro.Loop" "{6445A82FE025E36D}DZ/anims/anm/player/actions/items/p_cro_ignite_by_blowtorch_loop.anm"
+   "ActionContinuous.StartFireCro.Out" "{E66D4590C8CE5470}DZ/anims/anm/player/actions/items/p_cro_ignite_by_blowtorch_out.anm"
+   "ActionContinuous.StartFireErc.In" "{506DA85BC8ED77D1}DZ/anims/anm/player/actions/items/p_erc_ignite_by_blowtorch_in.anm"
+   "ActionContinuous.StartFireErc.Loop" "{52E50EF2BB152C24}DZ/anims/anm/player/actions/items/p_erc_ignite_by_blowtorch_loop.anm"
+   "ActionContinuous.StartFireErc.Out" "{55C04978E9A34A1E}DZ/anims/anm/player/actions/items/p_erc_ignite_by_blowtorch_out.anm"
+  
+ }
